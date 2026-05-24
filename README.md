@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20Jyoti%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20ML%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=580&lines=Full+Stack+Developer+in+the+Making+🚀;Machine+Learning+Explorer+🤖;Always+Learning%2C+Always+Building+🔥;Turning+Coffee+into+Code+☕" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+the+Making;Machine+Learning+Explorer;Always+Learning+Always+Building" />
 
 </div>
 
@@ -148,9 +148,10 @@ me.say_hi()
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=jyoti0828&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jyoti0828&theme=tokyonight&hide_border=true" width="48%" />
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=jyoti0828&theme=tokyonight&hide_border=true" width="48%" />
+
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyoti0828&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="40%" />
 
@@ -158,17 +159,6 @@ me.say_hi()
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jyoti0828/jyoti0828/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jyoti0828/jyoti0828/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/jyoti0828/jyoti0828/output/github-snake.svg" />
-</picture>
-</div>
-
----
 
 ## 🤝 Let's Connect
 
