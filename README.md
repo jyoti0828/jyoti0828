@@ -52,7 +52,7 @@ me.say_hi()
 ## 🛠️ Tech Stack & Tools
 
 <img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,flask,tensorflow,sklearn,docker,git,github,jenkins,githubactions,aws,vscode,selenium&theme=dark&perline=9" />
-<img src="assets/tech-stack-extra.png" height="64" alt="SQL, Streamlit, NumPy, Pandas, Jupyter, Google Gemini, pytest" />
+<img src="assets/tech-stacks.png" height="64" alt="SQL, Streamlit, NumPy, Pandas, Jupyter, Google Gemini, pytest" />
 
 ---
 
