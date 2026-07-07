@@ -49,97 +49,35 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-**Libraries & Tools**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+<img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,flask,tensorflow,sklearn,docker,git,github,jenkins,githubactions,aws,vscode,selenium&theme=dark&perline=9" />
+<img src="assets/tech-stack-extra.png" height="64" alt="SQL, Streamlit, NumPy, Pandas, Jupyter, Google Gemini, pytest" />
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>❤️ Heart Disease Prediction</h3>
-      <p>A <strong>Machine Learning</strong> model that predicts heart disease risk using patient health data, built with scikit-learn and Jupyter Notebook.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-      </p>
-      <a href="https://github.com/jyoti0828/Heart_Disease_Prediction">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🔐 Password Generator</h3>
-      <p>A secure <strong>password generator</strong> that creates strong, randomized passwords based on user-defined rules and complexity settings.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-      </p>
-      <a href="https://github.com/jyoti0828/Password-Generator-CLI">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🐦 Flappy Bird</h3>
-      <p>A <strong>Java recreation</strong> of the classic Flappy Bird game — showcasing game logic, OOP principles, and GUI development.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-      </p>
-      <a href="https://github.com/jyoti0828/Flappy_bird">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🤖 Google Gemini AI</h3>
-      <p>A JavaScript app integrating the <strong>Google Gemini AI</strong> API, exploring generative AI capabilities for real-world use cases.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-      </p>
-      <a href="https://github.com/jyoti0828/Google-Gemini-AI">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3>💱 Currency Converter</h3>
-      <p>A real-time <strong>currency converter</strong> that fetches live exchange rates and allows users to convert between multiple currencies instantly.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-      </p>
-      <a href="https://github.com/jyoti0828/Currency_Converter">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-  </tr>
-</table>
+### 📄 Intelligent PDF Document Analysis System
+
+A **persona-driven document intelligence system** built for the **Adobe India Hackathon 2025**. It parses PDFs, detects document structure, and ranks the most relevant sections for a given persona and task using semantic similarity — all offline and fully containerized.
+
+<br/>
+
+| Highlight | Details |
+|---|---|
+| 🧠 **Structure Detection** | Automatic heading & outline extraction with PyMuPDF |
+| 🔍 **Semantic Ranking** | Section relevance scoring via sentence-transformers embeddings + cosine similarity |
+| ⚡ **API Layer** | Lightweight Flask API with `/health`, `/outline`, and `/persona` endpoints |
+| 🐳 **Containerized** | Fully Dockerized for consistent, offline deployment |
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=py,flask,docker&theme=dark" />
+
+<br/>
+
+**[🔗 View Repository](https://github.com/jyoti0828/Intelligent_PDF_Document_Analysis_System)**
 
 ---
 
@@ -164,13 +102,15 @@ me.say_hi()
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jyoti0828)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jyoti0828)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyoti0828@gmail.com)
+<a href="https://github.com/jyoti0828"><img src="assets/connect-github.png" height="120" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/jyoti0828"><img src="assets/connect-linkedin.png" height="120" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:jyoti0828@gmail.com"><img src="assets/connect-gmail.png" height="120" /></a>
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=jyoti0828&label=Profile+Views&color=blueviolet&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=jyoti0828&label=Profile+Views&color=A855F7&style=for-the-badge)
 
 <br/>
 
