@@ -118,6 +118,4 @@ A **persona-driven document intelligence system** built for the **Adobe India Ha
 
 </div>
 
-<div align="center">
-  <i>⭐ Feel free to star repos you find interesting — it means a lot!</i>
-</div>
+
